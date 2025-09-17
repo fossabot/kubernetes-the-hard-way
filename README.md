@@ -1,4 +1,6 @@
 # Kubernetes The Hard Way
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fkubernetes-the-hard-way.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fkubernetes-the-hard-way?ref=badge_shield)
+
 
 This tutorial will walk you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out [Google Container Engine](https://cloud.google.com/container-engine), or the [Getting Started Guides](http://kubernetes.io/docs/getting-started-guides/).
 
@@ -68,3 +70,7 @@ While GCP or AWS will be used for basic infrastructure needs, the things learned
 * [Deploying the Cluster DNS Add-on](docs/08-dns-addon.md)
 * [Smoke Test](docs/09-smoke-test.md)
 * [Cleaning Up](docs/10-cleanup.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fkubernetes-the-hard-way.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fkubernetes-the-hard-way?ref=badge_large)
